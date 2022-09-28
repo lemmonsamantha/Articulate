@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6erk6UP8mr5" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Empathy as a Basis for 
+Emotional Intelligence
+</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Empathy_as_a_Basis_for_
+Emotional_Intelligence
+_ORG">
+    <organization identifier="Empathy_as_a_Basis_for_
+Emotional_Intelligence
+_ORG">
+      <title>Empathy as a Basis for 
+Emotional Intelligence
+</title>
+      <item identifier="Empathy_as_a_Basis_for_Emotional_Intelligence
+_SCO" isvisible="true" identifierref="__6erk6UP8mr5_RES">
+        <title>Empathy as a Basis for 
+Emotional Intelligence
+</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6erk6UP8mr5_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5r4nOwlsBs7_P_118_0_1811_1365.jpg" />
+      <file href="mobile/6EfEhDaPozi.png" />
+      <file href="mobile/61NbDAItZkg_P_115_0_1816_1365.jpg" />
+      <file href="mobile/68TqxvxUDmK_P_0_881_976_692.jpg" />
+      <file href="mobile/5lsy7H7Y8Cu_P_0_0_708_872.png" />
+      <file href="mobile/6CvAzeNx0ci_P_0_0_880_968.png" />
+      <file href="mobile/6ANoWjhLR0R_P_0_0_773_968.png" />
+      <file href="mobile/5mAPsaEsljH_X_P_0_0_566_990.png" />
+      <file href="mobile/6gYdwJ9oVCJ_P_0_0_572_990.png" />
+      <file href="mobile/5mAPsaEsljH_X_P_0_0_566_936.png" />
+      <file href="mobile/6gYdwJ9oVCJ_P_0_0_572_872.png" />
+      <file href="mobile/6519pAuxIus_M_1128_1128.png" />
+      <file href="mobile/6519pAuxIus_M_1128_1128_P_0_0_892_1192.png" />
+      <file href="mobile/67g6g8td0qn_M_1040_1040_P_0_0_726_1192.png" />
+      <file href="mobile/6JxFjGWwaqp.jpg" />
+      <file href="mobile/5mhcx4613a6_M_810_810.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_613LTEVlrye.png" />
+      <file href="mobile/txt__default_5zIe2RoJAEz.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kA65HJxgIg.js" />
+      <file href="html5/data/js/5ovazuF0O3R.js" />
+      <file href="html5/data/js/5V9aDSBBvKD.js" />
+      <file href="html5/data/js/5X3jkDADagL.js" />
+      <file href="html5/data/js/61jDvuJajfd.js" />
+      <file href="html5/data/js/67zaT1W8tgo.js" />
+      <file href="html5/data/js/69aY8YEraqA.js" />
+      <file href="html5/data/js/6GOUxYsSpeJ.js" />
+      <file href="html5/data/js/6PL5pwyRJZW.js" />
+      <file href="html5/data/js/6SpbM4N1Z1u.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
